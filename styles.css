@@ -111,12 +111,6 @@ a{
 a:hover{
   color: #EAF6F6;
 }
-
-.skills{
-  width: 50%;
-  position: relative;
-  left: 336px;
-}
 .btn {
   background: #24A19C;
   background-image: -webkit-linear-gradient(top, #24A19C, #00ffaa);
